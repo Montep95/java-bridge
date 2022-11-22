@@ -12,4 +12,6 @@
  * - [ ] move Method : Management command and Call Clear Methods(OutputView)
  
 - [x] BridgeMaker : Make BridgeRandomNumber Using Another Generator
-- [ ] OutputView : Print present_map, Print final_result
+- [x] OutputView : Print present_map, Print final_result
+
+Final implementation - Percentage = 60% [■■■□□]
