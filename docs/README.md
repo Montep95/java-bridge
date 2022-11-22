@@ -14,4 +14,4 @@
 - [x] BridgeMaker : Make BridgeRandomNumber Using Another Generator
 - [x] OutputView : Print present_map, Print final_result
 
-Final implementation - Percentage = 60% [■■■□□]
+# 🎢Final implementation - Percentage = 60% [■■■□□]🥲
